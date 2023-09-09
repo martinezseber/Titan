@@ -1,0 +1,32 @@
+
+
+A pasta C:\Arquivos de programas\Elipse E3\Projects contém todos os arquivos de configuração do Elipse E3, 
+
+com os seguintes arquivos:
+
+
+- estatistica.prj / Goodyear_Pit.prj / Goodyear_Pit.dom - arquivos de configuração;
+
+- lynx_cor.bmp / good-year.bmp  - bitmaps usados nas telas;
+
+- SPCLIB_Data.lib e SPCLIB_Graphics.lib - arquivos do modulo CEP;
+
+- GOODYEAR_PIT.txt - arquivo de log dos blocos CEP
+
+
+
+As pastas com os drivers ("Driver1" a "Driver7") ficam localizadas no seguinte diretório:
+
+C:\Arquivos de programas\Elipse E3\Driver1 - linhas K/L - serial232, comunicando com o SLC500 da plataforma;
+C:\Arquivos de programas\Elipse E3\Driver2 - linhas H/I e J - comunicando com o Eurotherm, via Ethernet/Modbus TCP
+C:\Arquivos de programas\Elipse E3\Driver3 - linha M - comunicando com o Eurotherm, via Ethernet/Modbus TCP
+C:\Arquivos de programas\Elipse E3\Driver4 - linha A - comunicando com o Eurotherm, via Ethernet/Modbus TCP
+C:\Arquivos de programas\Elipse E3\Driver5 - linhas B/C - comunicando com o Eurotherm, via Ethernet/Modbus TCP
+C:\Arquivos de programas\Elipse E3\Driver6 - linhas D/E - comunicando com o Eurotherm, via Ethernet/Modbus TCP
+C:\Arquivos de programas\Elipse E3\Driver7 - linhas F/G - comunicando com o Eurotherm, via Ethernet/Modbus TCP
+
+
+
+A pasta C:\Telas contém os arquivos *.bmp e *.rtf de configuração para impressão das telas "monitor1", "monitor2" e
+
+"estatistica_A" a "estatistica_M"
